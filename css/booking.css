@@ -40,7 +40,7 @@ form{
 }
 
 .niceformimage {
-    background-image:linear-gradient(rgba(0, 0, 0, 0.70),rgba(0, 0, 0, 0.90)),url('../img/slider-6.jpg'); 
+    background-image:linear-gradient(rgba(0, 0, 0, 0.30),rgba(0, 0, 0, 0.30)),url('../img/slider-6.jpg'); 
     background-position: right center;
     height: 100%;
     background-repeat: no-repeat;
