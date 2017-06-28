@@ -1,4 +1,4 @@
-/*@fonts*/
+﻿/*@fonts*/
 
 @font-face {
 	font-family: 'Conv_Gulf-Thin';
@@ -63,7 +63,7 @@ body{
 
 
 header {
-   background-image:linear-gradient(rgba(0, 0, 0, 0.7),rgba(0, 1, 0, 0.10)), url(../img/back.jpeg);
+   background-image:linear-gradient(rgba(0, 0, 0, 0.7),rgba(0, 1, 0, 0.10)), url(../img/back.png);
     background-position: center center;
     background-size: cover;
     width: 100%;
