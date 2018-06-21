@@ -1,0 +1,46 @@
+
+a,.tp-caption a.btn:hover {
+	color: #ea2328;
+}
+.top-nav-collapse {
+	background: #eb5d1e;
+}
+
+.navbar-custom ul.nav ul.dropdown-menu li a:hover {
+	color: #eb5d1e;
+}
+
+.owl-theme .owl-controls .owl-page.active span,
+.owl-theme .owl-controls.clickable .owl-page:hover span {
+    background-color: #eb5d1e;
+}
+
+.widget-avatar .avatar:hover {
+    border: 5px solid #eb5d1e;
+}
+
+.bg-skin {
+	background: #eb5d1e;
+}
+
+form#contact-form input:focus,form#contact-form select:focus,form#contact-form textarea:focus {
+	border-color: #999;
+}
+
+footer {
+    background-color: #dbdde0;
+    font-family: 'GE SS Two Medium';
+.btn-skin
+    
+}
+
+
+.btn-skin {
+  color: #333;
+  background-color: #fff;
+  border-color: #999;
+  font-family: 'GE SS Two Medium';
+  font-size: 16px;
+  border-radius: 15px;
+  width:150px;
+}
